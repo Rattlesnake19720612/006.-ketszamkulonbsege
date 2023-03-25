@@ -1,0 +1,6 @@
+C:\Users\gratt\source\repos\006. ketszamkulonbsege\006. ketszamkulonbsege\bin\Debug\_006.ketszamkulonbsege.exe.config
+C:\Users\gratt\source\repos\006. ketszamkulonbsege\006. ketszamkulonbsege\bin\Debug\_006.ketszamkulonbsege.exe
+C:\Users\gratt\source\repos\006. ketszamkulonbsege\006. ketszamkulonbsege\bin\Debug\_006.ketszamkulonbsege.pdb
+C:\Users\gratt\source\repos\006. ketszamkulonbsege\006. ketszamkulonbsege\obj\Debug\006. ketszamkulonbsege.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\006. ketszamkulonbsege\006. ketszamkulonbsege\obj\Debug\_006.ketszamkulonbsege.exe
+C:\Users\gratt\source\repos\006. ketszamkulonbsege\006. ketszamkulonbsege\obj\Debug\_006.ketszamkulonbsege.pdb
